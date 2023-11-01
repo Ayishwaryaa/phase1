@@ -16,4 +16,5 @@ Objectives:**
 
 
 **Instructions on How to Deploy and Interact with the Chatbot on Messaging Platforms** 
+
 To deploy the chatbot on messaging platforms, we will need to create a Watson Assistant account and create a new chatbot. Once we have created a chatbot, we can train it on the dataset of user queries and responses that are provided in the GitHub repository. Once the chatbot is trained, we can deploy it to messaging platforms such as Facebook Messenger, Slack, and Telegram. To do this, we will need to create a Watson Assistant integration for each messaging platform.
